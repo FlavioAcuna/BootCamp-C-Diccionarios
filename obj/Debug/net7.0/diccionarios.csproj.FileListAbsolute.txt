@@ -1,0 +1,15 @@
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\obj\Debug\net7.0\diccionarios.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\obj\Debug\net7.0\diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\obj\Debug\net7.0\diccionarios.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\obj\Debug\net7.0\diccionarios.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\obj\Debug\net7.0\diccionarios.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\bin\Debug\net7.0\diccionarios.exe
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\bin\Debug\net7.0\diccionarios.deps.json
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\bin\Debug\net7.0\diccionarios.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\bin\Debug\net7.0\diccionarios.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\bin\Debug\net7.0\diccionarios.pdb
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\obj\Debug\net7.0\diccionarios.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\obj\Debug\net7.0\refint\diccionarios.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\obj\Debug\net7.0\diccionarios.pdb
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\obj\Debug\net7.0\diccionarios.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\diccionarios\obj\Debug\net7.0\ref\diccionarios.dll
